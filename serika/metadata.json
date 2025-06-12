@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "dyprojectv@gmail.com",
+                "Name": "dytech"
+            }
+        ],
+        "Category": "",
+        "Description": "Serika L2D Blue Archive splash screen for Plasma 6",
+        "Id": "serika",
+        "License": "GPLv3",
+        "Name": "serika",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
