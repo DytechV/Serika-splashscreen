@@ -30,9 +30,15 @@ Rectangle {
         "Welcome back to kde plasma!",
         "loading loading loading....",
         "sudo pacman -S <package name>",
-        "do you like cats too?"
+        "do you like cats too?",
+        "Miaw",
+        "this is 1.0 limited tips!",
+        "what? you wanna push the swing for me?",
+        "helow hwow arwe ywou im unda da watwer please help me",
+        "Good morning",
+        "sit back and relax"
     ]
-    property int index: Math.floor(Math.random() * 5)
+    property int index: Math.floor(Math.random() * 11)
 
     onStageChanged: {
         if (stage == 1) {
