@@ -1,3 +1,3 @@
 just some fun experimenting with kde plasma
 
-*installation :*
+_installation :_
