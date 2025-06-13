@@ -1,4 +1,4 @@
-### Serika-splashscreen
+# Serika-splashscreen
 just me doing some fun experimenting with kde plasma
 
 ## installation
