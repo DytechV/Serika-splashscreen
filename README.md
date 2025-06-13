@@ -2,7 +2,7 @@
 just me doing some fun experimenting with kde plasma and git
 
 ## installation
-just put down serika in ~/.local/share/plasma/look-and-feel and open settings to use it
+just put down serika in "~/.local/share/plasma/look-and-feel" and open settings to use it
 
 
 ## preview
